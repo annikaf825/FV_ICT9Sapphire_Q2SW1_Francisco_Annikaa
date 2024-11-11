@@ -1,5 +1,4 @@
 # FV_ICT9Sapphire_Q2SW1_Francisco_Annikaa
-[Upl<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
