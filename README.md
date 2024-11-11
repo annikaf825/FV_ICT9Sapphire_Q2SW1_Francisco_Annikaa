@@ -7,7 +7,7 @@
 <div class="h1sw1"><center>
     <h1><spam style="color: #C6E7FF; font-family: Consolas; " >GENSHIN</spam> IMPACT</h1>
        <h4 style="color: #C6E7FF; font-family: Consolas;">Favorite Character</h4>
-</div></center> 
+</center> 
 <title>Q2Practice2</title>
 
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -18,7 +18,6 @@ width: 200px;
 }
 
 </style>
-</head>
 <body>
 <div class="container">
 <div class="row">
@@ -36,10 +35,7 @@ width: 200px;
         <li><p>Optimistic</p></li>
         <li><p>Kind</p></li>
         <li><p>Responsible</p></li>
-    <ol></td>
-
-                          
-                     </tr>
+    <ol>
                       <tr class="table-success">
                           <td><img src="https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Kinich_Card.png/revision/latest?cb=20240715100623" class="rounded mx-auto d-block"></td>
                           <td class="text-center"><h1 style="font-family: Comic Sans MS;">Kinich</h1><h5>A Saurian Hunter from the Scions of the Canopy with the Ancient Name "Malipo,".</h5><ul>
@@ -48,9 +44,7 @@ width: 200px;
         <li><p>Cold</p></li>
         <li><p>Ego-centric</p></li>
         <li><p>Blunt</p></li>
-    <ol></td></td>
-                          
-                   </tr>
+    <ol></td>
                     <tr class="table-primary">
                           <td><img src="https://static.wikia.nocookie.net/gensin-impact/images/2/27/Furina_Card.png/revision/latest?cb=20230925100151" class="rounded mx-auto d-block"></td>
                           <td class="text-center"><h1 style="font-family: Comic Sans MS;">Furina</h1><h5>The Hydro Archon/God of Fontaine. Human version of Focalors, the real God of Fontaine.</h5><ul>
@@ -59,9 +53,7 @@ width: 200px;
         <li><p>Sensitive</p></li>
         <li><p>Dramatic</p></li>
         <li><p>Flamboyant</p></li>
-    <ol></td></td>
-                          
-                     </tr>
+    <ol></td>
                       <tr class="table-danger">
                           <td><img src="https://static.wikia.nocookie.net/powerscaling-genshin-impact/images/7/7a/Lyney.jpg/revision/latest/scale-to-width-down/600?cb=20231125115443" class="rounded mx-auto d-block"></td>
                           <td class="text-center"><h1 style="font-family: Comic Sans MS;">Lyney</h1><h5>Fontaine's greatest magician and Lynette's twin brother. Part of the "House of the Hearth".</h5><ul>
@@ -70,9 +62,7 @@ width: 200px;
         <li><p>Talkative</p></li>
         <li><p>Older Brother</p></li>
         <li><p>Responsible</p></li>
-    <ol></td></td>
-
-                      </tr>
+    <ol></td>
                       <tr class="table-info">
                           <td><img src="https://static.wikia.nocookie.net/gensin-impact/images/0/0e/Eula_Card.png/revision/latest?cb=20210511110453" class="rounded mx-auto d-block"></td>
                           <td class="text-center"><h1 style="font-family: Comic Sans MS;">Eula</h1><h5>A Favonius Knight of Mondstadt. Descendant of the Lawrence Clan.</h5><ul>
@@ -92,13 +82,7 @@ width: 200px;
         <li><p>Patient</p></li>
         <li><p>Approachable</p></li>
         <li><p>Strong</p></li>
-    <ol></td></td>
-                      </tr>
-                 </table>
-</div>
-</div>
-</div>
-
+    <ol></td>
 </body>
 <Style>
   body{
